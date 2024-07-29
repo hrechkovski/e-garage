@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://unpkg.com/@csstools/normalize.css" rel="stylesheet" />
+    <link href="styles/styles.css" rel="stylesheet" />
+
+    <script src="scripts/contact.js" defer></script>
+    <title>Kontakt</title>
+  </head>
+  <body>
+    <header class="header">
+      <a href="/index.html">
+        <img
+          class="logo"
+          src="/images/garage-sale-sign.jpeg"
+          alt="e-garage sale logo"
+        />
+      </a>
+      <nav class="nav">
+        <ul class="nav-list">
+          <li><a href="/index.html" class="nav-btn">Strona główna</a></li>
+
+          <li><a href="/items.html" class="nav-btn">Przedmioty</a></li>
+          <li><a href="/contact.html" class="nav-btn">Kontakt</a></li>
+        </ul>
+      </nav>
+      <button class="hamburger-menu">
+        <span class="burger burger-4"></span>
+      </button>
+      <nav class="mobile-nav hidden">
+        <ul class="mobile-nav-list">
+          <li><a href="/index.html" class="nav-btn">Strona główna</a></li>
+          <li><a href="/items.html" class="nav-btn">Przedmioty</a></li>
+          <li><a href="/contact.html" class="nav-btn">Kontakt</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="container">
+      <h1 class="head-1">Bądźmy w kontakcie 👉🏼👈🏼</h1>
+      <form method="post" name="contact-form" class="contact-form">
+        <label for="name">Imię</label>
+        <input
+          type="text"
+          id="name"
+          required
+          placeholder="Jan"
+          class="contact-input contact-short"
+        />
+        <label for="surname">Nazwisko</label>
+        <input
+          type="text"
+          id="surname"
+          required
+          placeholder="Kupiec"
+          class="contact-input contact-short"
+        />
+        <label for="topic">Temat</label>
+        <select name="dropdown" id="topic" class="contact-input contact-short">
+          <option value="choose">Wybierz temat</option>
+          <option value="availability">Dostępność przedmiotu</option>
+          <option value="photos">Więcej zdjęć</option>
+          <option value="other">Inne</option>
+        </select>
+        <label for="message">Treść wiadomości</label>
+        <textarea
+          name="text"
+          id="message"
+          cols="30"
+          rows="6"
+          placeholder="Wpisz swoją wiadomość"
+          class="contact-input"
+        ></textarea>
+        <button
+          type="submit"
+          form="contact-form"
+          value="submit"
+          class="cta-btn"
+          id="submit-btn"
+        >
+          Wyślij!
+        </button>
+      </form>
+    </div>
+    <!-- Footer Section -->
+    <footer class="footer">
+      <div class="container">
+        <p class="footer-txt">Copyright © 2024 by Radosław Hreczkowski</p>
+      </div>
+    </footer>
+  </body>
+</html>

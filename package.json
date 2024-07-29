@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@csstools/normalize.css": "^12.1.1",
+    "json-server": "^1.0.0-beta.1"
+  },
+  "scripts": {
+    "server": "json-server mock-api/db.json --port 8000"
+  }
+}

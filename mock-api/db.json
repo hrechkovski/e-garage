@@ -1,0 +1,406 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "TV TCL 55\" C728 QLED 4K 100Hz Android TV HDR Premium",
+      "price": "2100 zł",
+      "description": "TV QLED marki TCL z serii C728. 55 cali, 4K, odświeżanie na poziomie 100Hz, złącza HDMI x4, USB x1. Działa na Android TV, więc jest dostęp do aplikacji z Google Play Store. Polecam bardzo do ogladania sportu lub grania w gry. Stan praktycznie idealny, obudowa nietknięta, brak martwych pikseli, matryca bez widocznych zarysowań.",
+      "photo": [
+        "images/electronics/e-tele1.jpeg",
+        "images/electronics/e-tele2.jpeg",
+        "images/electronics/e-tele3.jpeg",
+        "images/electronics/e-tele4.jpeg",
+        "images/electronics/e-tele5.jpeg",
+        "images/electronics/e-tele6.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Xbox Series X, 2 pady + ładowarka",
+      "price": "1400 zł",
+      "description": "Xbox Series X w stanie idealnym, do tego 2 pady, w klasycznym czarnym kolorze oraz camo red. Oba pady jak najbardziej sprawne. Zestaw oferuję wraz z oryginalnym kablem HDMI 4K, w oryginalnym pudełku. Dodatkowo, sprzedaję 2 akumulatory zamontowane w padach w miejsce baterii oraz ładowarkę firmy Speedlink.",
+      "photo": [
+        "images/electronics/e-xbox1.jpeg",
+        "images/electronics/e-xbox2.jpeg",
+        "images/electronics/e-xbox3.jpeg",
+        "images/electronics/e-xbox4.jpeg",
+        "images/electronics/e-xbox5.jpeg",
+        "images/electronics/e-xbox6.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Laptop ASUS R510JK-DM011H 15.6\" ",
+      "price": "900 zł",
+      "description": "Laptop Asus z ekranem o przekątnej 15.6 cala oraz rozdzielczości 1920 x 1080 pikseli, z procesorem Intel Core i5-4200H o częstotliwości 2.8GHz. Karta graficzna nVIDIA GeForce GTX 850M. Zainstalowany Windows 10 x64. 8 GB pamięci RAM, dysk SSD Plextor 512GB M8VC, kupiony i wstawiony w połowie 2020 roku. Nowa bateria Green Cell 2200 mAh, wstawiona w lipcu 2024. Stan bardzo dobry, matryca bez wad, pojedyncze ryski na obudowie, klawisze nie są wytarte. Na górnej części obudowy ekranu ma wytarcie powstałe podczas czyszczenia acetonem kleju po zaślepce. Jedyny techniczny mankament to niedziałający scroll w touchpadzie. Oryginalna ładowarka.",
+      "photo": [
+        "images/electronics/e-laptop1.jpeg",
+        "images/electronics/e-laptop2.jpeg",
+        "images/electronics/e-laptop3.jpeg",
+        "images/electronics/e-laptop4.jpeg",
+        "images/electronics/e-laptop5.jpeg",
+        "images/electronics/e-laptop6.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Krzesło biurowe Flintan IKEA",
+      "price": "200 zł",
+      "description": "Ergonomiczne krzesło z wysokim oparciem. Na oparciu siatka, dzięki której człowiek się nie poci siedząc przez dłuższy czas. Pokrowiec górny i dolny można śmiało zdjąć i wyprać. Stan idealny, sprzedaję wyprane oczywiście. Dodatkowo, krzesło posiada gumowe kółka, które blokują się, gdy nie jest używane. Można dokupić w Ikei podłotkietniki do tego modelu.",
+      "photo": ["images/square-placeholder.jpg"]
+    },
+    {
+      "id": 5,
+      "title": "Monitor Samsung 22\" FullHD S22C300",
+      "price": "200 zł",
+      "description": "Monitor Samsung 22 cale FullHD, rozdzielczość 1920x1080p. Matryca LED. Lekki, zadbany, z kompletem kabli (HDMI, zasilacz). Matryca bez uszkodzeń",
+      "photo": [
+        "images/electronics/e-samsung1.jpeg",
+        "images/electronics/e-samsung2.jpeg",
+        "images/electronics/e-samsung3.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Odkurzacz Gorenje VCEA21GLW",
+      "price": "150 zł",
+      "description": "Odkurzacz workowy o mocy 212W, pojemność worka 3l, regulacja mocy ssania. Gumowe kółka, a więc nie rysuje powierzchni. Posiada wskaźnik zapełnienia worka. Stan bardzo dobry. Sprzedaję z 3 akcesoriami w zestawie. Oryginalne pudełko.",
+      "photo": [
+        "images/agd/a-odkurzacz1.jpeg",
+        "images/agd/a-odkurzacz2.jpeg",
+        "images/agd/a-odkurzacz3.jpeg",
+        "images/agd/a-odkurzacz4.jpeg",
+        "images/agd/a-odkurzacz5.jpeg",
+        "images/agd/a-odkurzacz6.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Wiedźmin 2 Zabójcy Królów - Geralt popiersie gipsowe",
+      "price": "99 zł",
+      "description": "Sprzedam unikatową figurkę popiersie gipsowe przedstawiające Geralta z Wiedźmina 2 z edycji kolekcjonerskiej. Stan bardzo dobry, popiersie nie było malowane, więc można spokojnie zamalować lekkie ubytki, z którymi zostało wysłane w opakowaniu, jeśli komuś one przeszkadzają. Wysokość - 17 cm, szerokość na rzucie z góry - 13 cm od końca kucyka do końca nosa.",
+      "photo": [
+        "images/others/o-geralt1.jpeg",
+        "images/others/o-geralt2.jpeg",
+        "images/others/o-geralt3.jpeg",
+        "images/others/o-geralt4.jpeg",
+        "images/others/o-geralt5.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Funko Pop Leatherface 1119 special edition",
+      "price": "79 zł",
+      "description": "Figurka Funko Pop Leatherface z Teksańskiej Masakry Piłą Mechaniczną. Figurka w stanie idealnym, pudełko delikatnie naderwane, co widać na zdjęciach. Nr figurki 1119.",
+      "photo": [
+        "images/funko-pop/funko-leather1.jpeg",
+        "images/funko-pop/funko-leather2.jpeg",
+        "images/funko-pop/funko-leather3.jpeg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Funko Pop Spiderman 470 upgraded suit figurka",
+      "price": "50 zł",
+      "description": "Sprzedam figurkę Funko Pop Spiderman z kolekcji Far From Home. Nr figurki 470, pudełko lekko obtarte, natomiast sama figurka w stanie idealnym.",
+      "photo": [
+        "images/funko-pop/funko-spider1.jpeg",
+        "images/funko-pop/funko-spider2.jpeg",
+        "images/funko-pop/funko-spider3.jpeg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Funko Pop Michael Jordan 54 figurka",
+      "price": "40 zł",
+      "description": "Figurka Funko Pop Michael Jordan obrazującą kultowy wsad z konkursu z 1988 r. Figurka w stanie idealnym, pudełko również. Nr figurki 54.",
+      "photo": [
+        "images/funko-pop/funko-mj1.jpeg",
+        "images/funko-pop/funko-mj2.jpeg",
+        "images/funko-pop/funko-mj3.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Funko Pop The Child Baby Yoda 368 Mandalorian",
+      "price": "40 zł",
+      "description": "Figurka Funko Pop Baby Yoda, The Child z serialu Mandalorian. Figurka jak i pudełko w stanie idealnym. Nr figurki 368",
+      "photo": [
+        "images/funko-pop/funko-yoda1.jpeg",
+        "images/funko-pop/funko-yoda2.jpeg",
+        "images/funko-pop/funko-yoda3.jpeg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Funko Pop Charmander Pokemon 455 figurka",
+      "price": "40 zł",
+      "description": "Figurka Funko Pop Charmander z Pokemonów. Figurka w stanie idealnym, pudełko delikatnie wygięte z góry, co widać na zdjęciach. Brak obtarć, rozdarć. Nr figurki 455.",
+      "photo": [
+        "images/funko-pop/funko-charm1.jpeg",
+        "images/funko-pop/funko-charm2.jpeg",
+        "images/funko-pop/funko-charm3.jpeg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Żelazko Russell Hobbs Copper Express Copper Infused Soleplate 150g/min",
+      "price": "90 zł",
+      "description": "Żelazko Copper Express z mocą 2600W, posiada miedzany wlew w ceramicznej stopie, system antywapienny oraz samooczyszczania. Wyrzuca parę w poziomie i w pionie, więc można również używać np. do załon. Sprzedaję w oryginalnym opakowaniu wraz ze zbiorniczkiem na wodę. Stan idealny.",
+      "photo": [
+        "images/agd/a-iron2.jpeg",
+        "images/agd/a-iron1.jpeg",
+        "images/agd/a-iron3.jpeg",
+        "images/agd/a-iron4.jpeg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Ryżowar lub wielofunkcyjny garnek Sencor 1,5l 500W",
+      "price": "50 zł",
+      "description": "Jeśli nie wiedziałeś/-aś, że jest takie AGD jak ryżowar, to witam w klubie. Niemniej, jako szczęśliwy posiadacz takowego, sprzedaję ów urządzenie w stanie bardzo dobrym. Czym jest ryżowar? To po prostu garnek z nieprzywierającą powłoką, gdzie mieści się do 1,5l wody i w którym można gotować ryż, ale i nie tylko. Prosty w obsłudze, posiada tryb pracy COOK i tryb trzymania ciepla KEEP WARM. Sam wyłącza się po skończeniu gotowania. Sprzedaję cały zestaw, wraz z łopatką, pokrywką i miarką.",
+      "photo": [
+        "images/agd/a-rice1.jpeg",
+        "images/agd/a-rice2.jpeg",
+        "images/agd/a-rice3.jpeg",
+        "images/agd/a-rice4.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Wentylator BLOW. Mocny wiatrak biurkowy 40W",
+      "price": "40 zł",
+      "description": "Mocny i cichy, z 3 stopniami pracy oraz dostosowaniem kąta nachylenia. Moc 40W. Trwały, bo po 3 ciepłych latach, dalej wygląda dobrze i działa bez zarzutu. Domyślnie obraca się na boki podczas pracy, ale jest też opcja zablokowania wiatraka. Polecam wariata, bo mały ale robi robotę.",
+      "photo": [
+        "images/agd/a-blow1.jpeg",
+        "images/agd/a-blow2.jpeg",
+        "images/agd/a-blow3.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Kawiarka Edenberg 300ml do wszystkich kuchenek",
+      "price": "30 zł",
+      "description": "Kawiarka wykonana ze stali nierdzewnej, składa się z podstawki, sitka i górnego pojemnika. Działa na wszystkich rodzajach kuchenek: elektrycznej, gazowej, ceramicznej, halogenowej czy indukcyjnej. Kawę zawsze zrobi, działa bez zarzutu. Zawsze myta i czyszczona, nie posiada zabrudzeń ani przypaleń w środku ani na zewnątrz.",
+      "photo": [
+        "images/agd/a-kawa1.jpeg",
+        "images/agd/a-kawa2.jpeg",
+        "images/agd/a-kawa3.jpeg",
+        "images/agd/a-kawa4.jpeg"
+      ]
+    },
+
+    {
+      "id": 17,
+      "title": "Podstawka pod laptopa SilentiumPC Glacier NC400 (do 17,3\")",
+      "price": "50 zł",
+      "description": "Podstawka chłodząca z 1 dużym wentylatorem o średnicy 20 cm na środku. Wypozażona w 2 tryby pracy (cichy, spokojny i wydajny, dość mocny), ale wiatrak można też wyłączyć. Zasilana USB, posiada również dodatkowe wejście tego typu. Szerokość: 38,4cm, głębokość: 31,2cm, wysokość: 5,4cm. Stan idealny, pozwoliła mi przejść Wiedźmina 3 na laptopie, więc broni się sama.",
+      "photo": [
+        "images/electronics/e-glacier1.jpeg",
+        "images/electronics/e-glacier2.jpeg",
+        "images/electronics/e-glacier3.jpeg"
+      ]
+    },
+
+    {
+      "id": 18,
+      "title": "Monitor ASUS VW193D-B LCD 19\"",
+      "price": "40 zł",
+      "description": "Monitor LCD o przekątnej 19 cali, w stanie bardzo dobrym. Matryca bez martwych pikseli, obraz jest ok. Możliwość dostosowania trybu i kolorów wyświetlania. Sprzedaję wraz z niezbędnym okablowaniem - zasilacz + kabel VGA z przejściówką do HDMI.",
+      "photo": [
+        "images/electronics/e-asus1.jpeg",
+        "images/electronics/e-asus2.jpeg",
+        "images/electronics/e-asus3.jpeg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Podnóżek ergonomiczny Övning IKEA",
+      "price": "40 zł",
+      "description": "Wielofunkcyjny podnóżek, który pomaga siedzeić przy biurku w dobrej pozycji do pracy. Stopy mają stabilne wsparcie, które zmniejsza nacisk na uda i przyczynia się do lepszego krążenia krwi. Pokrycie można zdjąć i wyprać w pralce.",
+      "photo": ["images/square-placeholder.jpg"]
+    },
+
+    {
+      "id": 20,
+      "title": "Masażer elektryczny. Poduszka masująca Shiatsu",
+      "price": "30 zł",
+      "description": "Poduszka masująca z funkcją podgrzewania wyposażona jest w cztery głowice masujące. Masażer zapewnia rozluźnienie w okolicach karku, kręgosłupa, pleców oraz nóg. W środku znajdują się kulki masujące, które obracają się podczas masażu, jak również lampy z podczerwienią. Moc: 25W, wykonana z eko-skóry i siatki. Stan idealny, właściwie nieużywana.",
+      "photo": [
+        "images/electronics/e-masage1.jpeg",
+        "images/electronics/e-masage2.jpeg",
+        "images/electronics/e-masage3.jpeg",
+        "images/electronics/e-masage4.jpeg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Lampka LED światło białe Montis",
+      "price": "30 zł",
+      "description": "Lampka LED ładowana kablem micro-USB. Elastyczne ramię, 3 tryby mocy podświetlenia + tryb nocny.",
+      "photo": [
+        "images/electronics/e-lampa1.jpeg",
+        "images/electronics/e-lampa2.jpeg",
+        "images/electronics/e-lampa3.jpeg",
+        "images/electronics/e-lampa4.jpeg"
+      ]
+    },
+
+    {
+      "id": 22,
+      "title": "Klawiatura NATEC Barracuda Slim",
+      "price": "15 zł",
+      "description": "Klawiatura membranowa, przewodowa na USB. Posiada nóżki z tyłu oraz podkładkę na nadgarstki.Klawisze w stylu chocolate keys, przyjamne podczas pracy. Stan bardzo dobry, bez otarć, wszystkie klawisze sprawne.",
+      "photo": [
+        "images/electronics/e-keyboard1.jpeg",
+        "images/electronics/e-keyboard2.jpeg",
+        "images/electronics/e-keyboard3.jpeg",
+        "images/electronics/e-keyboard4.jpeg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Hantle żeliwne 2x12kg",
+      "price": "70 zł",
+      "description": "2 gryfy po 2kg każdy + odważniki 8x2kg i 4x1kg. Łączna waga zestawu: 24kg. Sprzedaję z zaciskami, oczywiście. Stan bardzo dobry.",
+      "photo": ["images/others/o-dumb1.jpeg", "images/others/o-dumb2.jpeg"]
+    },
+    {
+      "id": 24,
+      "title": "Damskie wrotki Coolslide z sieci Martes, r. 37",
+      "price": "80 zł",
+      "description": "Damskie wrotki w rozmiarze 37, zakupione w zeszłym roku, użyte raptem kilka razy. Stan dobry/bardzo dobry. Lekko obtarte na przodzie, ale w pełni funkcjonalne.",
+      "photo": [
+        "images/others/o-skates1.jpeg",
+        "images/others/o-skates2.jpeg",
+        "images/others/o-skates3.jpeg",
+        "images/others/o-skates4.jpeg",
+        "images/others/o-skates5.jpeg",
+        "images/others/o-skates6.jpeg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Stolik Vittsjö 35x65cm IKEA",
+      "price": "30 zł",
+      "description": "Stolik ze szklaną płytą, kompatkowy i ładnie wygląda. Wysokość 65cm, wymaiary ramy płyty: 55x35cm. Stan idealny.",
+      "photo": [
+        "images/others/o-stolik1.jpeg",
+        "images/others/o-stolik2.jpeg",
+        "images/others/o-stolik3.jpeg",
+        "images/others/o-stolik4.jpeg",
+        "images/others/o-stolik5.jpeg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Torba na laptopa Media-Tech 4-komorowa",
+      "price": "25 zł",
+      "description": "Torba na laptopa znanej polskiej firmy Media-Tech. Posiada 3 komory z przodu i 1 komorę/kieszeń z tyłu na zamek. W zestawie dołączam 2 typy pasków. Torba jak i paski są w kolorze czarnym, torba posiada rowniez pomarańczowe wstawki. Torba pomieści laptopa do 15,6 cala. Wymiary zewnętrzne: 44cm x 35cm. Wymiary wewnętrzne głównej komory: 39cm x 31cm.",
+      "photo": [
+        "images/others/o-bag1.jpeg",
+        "images/others/o-bag2.jpeg",
+        "images/others/o-bag3.jpeg",
+        "images/others/o-bag4.jpeg",
+        "images/others/o-bag5.jpeg",
+        "images/others/o-bag6.jpeg",
+        "images/others/o-bag7.jpeg"
+      ]
+    },
+
+    {
+      "id": 27,
+      "title": "Kurtka jeansowa Reserved oversize, rozm. S",
+      "price": "50 zł",
+      "description": "Kurtka jeansowa marki Reserved w rozmiarze S. Model oversized. Stan bardzo dobry na idealny. Jeden guzik delikatnie przetarty, ale z daleka tego nie widać. Noszona kilka razy.",
+      "photo": [
+        "images/clothes/c-jeans1.jpeg",
+        "images/clothes/c-jeans2.jpeg",
+        "images/clothes/c-jeans3.jpeg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Kurtka K1X wiatrówka podszyta polarem rozm. L",
+      "price": "50 zł",
+      "description": "Stan dobry/bardzo dobry, nosi standardowe ślady użytkowania, wytarte klipsy na sznurku z kaptura oraz niewielki ślad widoczny na ostatnim zdjęciu. Wiatrówka jest podszyta polarem, więc spokojnie może pełnić rolę kurtki wiosenno-jesiennej. Posiada dwie kieszenie z przodu i jedną wewnątrz, wszystkie na zamek błyskawiczny. Kaptur jest nieco wydłużony, chroni nałożoną czapkę z daszkiem przed deszczem. Wymiary: długość - 77 cm, szerokość pod pachami - 62 cm, dł. rękawa z góry - 67 cm",
+      "photo": [
+        "images/clothes/c-kurtka1.jpeg",
+        "images/clothes/c-kurtka2.jpeg",
+        "images/clothes/c-kurtka3.jpeg",
+        "images/clothes/c-kurtka4.jpeg",
+        "images/clothes/c-kurtka5.jpeg",
+        "images/clothes/c-kurtka6.jpeg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Kamizelka Zara rozm. M",
+      "price": "40 zł",
+      "description": "Kamizelka marki Zara w rozmiarze M. Kamizelka solidna, ciepła, z kapturem, wykonana z poliestru. Posiada 3 kieszenie - 2 boczne i 1 wewnętrzną. Stan idealny.",
+      "photo": [
+        "images/clothes/c-zara1.jpeg",
+        "images/clothes/c-zara2.jpeg",
+        "images/clothes/c-zara3.jpeg",
+        "images/clothes/c-zara4.jpeg"
+      ]
+    },
+
+    {
+      "id": 30,
+      "title": "Krótkie płetwy pływackie Nabaiji Easyfins Decathlon, r. 43/44",
+      "price": "20 zł",
+      "description": "Płetwy z krótkim piórem, rozmiar 43/44. Długość płetw: 36,5cm. Są dość miękkie, więc będą dobre do treningu wydolnościowego. Stan idealny.",
+      "photo": [
+        "images/clothes/c-pletwy1.jpeg",
+        "images/clothes/c-pletwy2.jpeg",
+        "images/clothes/c-pletwy3.jpeg"
+      ]
+    },
+
+    {
+      "id": 31,
+      "title": "Bill Simmons - 'Wielka Księga Koszykówki'",
+      "price": "20 zł",
+      "description": "Książka wydana w 2018 roku. Autor książki: Bill Simmons. Okładka: Twarda. Stan idealny. Polecam wszystkim, nie tylko fanom koszykówki.",
+      "photo": [
+        "images/books/b-ksiega1.jpeg",
+        "images/books/b-ksiega2.jpeg",
+        "images/books/b-ksiega3.jpeg"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Luis Miguel Perreira & Juan Ignacio Gallardo - 'CR7. Maszyna'",
+      "price": "15 zł",
+      "description": "Książka wydana w 2014 roku. Autorzy książki: Luis Miguel Perreira & Juan Ignacio Gallardo. Okładka: Twarda. Stan idealny, jak Cristiano.",
+      "photo": [
+        "images/books/b-cr1.jpeg",
+        "images/books/b-cr2.jpeg",
+        "images/books/b-cr3.jpeg"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Marcus Thompson II - 'Stephen Curry. Potrójne oblicze'",
+      "price": "15 zł",
+      "description": "Książka wydana w 2017 roku. Autor książki: Marcus Thompson II. Okładka: Miękka. Stan bardzo dobry.",
+      "photo": [
+        "images/books/b-curry1.jpeg",
+        "images/books/b-curry2.jpeg",
+        "images/books/b-curry3.jpeg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Gijs Van Hensbergen - 'Gaudi. Geniusz z Barcelony'",
+      "price": "15zł",
+      "description": "Książka wydana w 2015 roku. Autor książki: Gijs Van Hensbergen. Okładka: Miękka.",
+      "photo": [
+        "images/books/b-gaudi1.jpeg",
+        "images/books/b-gaudi2.jpeg",
+        "images/books/b-gaudi3.jpeg"
+      ]
+    }
+  ]
+}

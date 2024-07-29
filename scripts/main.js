@@ -53,9 +53,3 @@ hamburger.addEventListener("click", () => {
   hamburger.querySelector("span").classList.toggle("is-closed");
   navMobile.classList.toggle("hidden");
 });
-// const hamburgerMenu = document.querySelector(".hamburger-menu");
-// const mobileNav = document.querySelector(".mobile-nav");
-
-// hamburgerMenu.addEventListener("click", () => {
-//   mobileNav.classList.toggle("hidden");
-// });
